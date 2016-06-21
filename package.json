@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_app",
+  "version": "0.0.1",
+  "description": "nodejs_app",
+  "main": "server.js",
+  "dependencies": {
+     "express": "^4.14.0"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "dev": "nodemon --ignore node_modules/ server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geovanaSouza/nodejs_app.git"
+  },
+  "keywords": [
+    "Echo"
+],
+  "author": "Geovana Souza <geovana.possenti@gmail.com>"
+}
