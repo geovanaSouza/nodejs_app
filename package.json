@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
      "express": "^4.14.0",
-     "cofee-script"
+     "coffee-script": "1.6.1"
   },
   "engine": {
     "node": "*",
