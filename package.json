@@ -4,8 +4,7 @@
   "description": "nodejs_app",
   "main": "server.js",
   "dependencies": {
-     "express": "^4.14.0",
-     "coffee-script": "1.6.1"
+     "express": "^4.14.0"
   },
   "engine": {
     "node": "*",
